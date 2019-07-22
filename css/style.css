@@ -31,7 +31,7 @@ body{
     color: transparent;
     font-size: 120px;
     background: url(../img/p6.jpg);
-    background-position: center center;
+    background-position: center ;
     background-size: 200%;
     -webkit-background-clip: text;
     position: relative;
@@ -39,6 +39,12 @@ body{
     line-height: 90px;
     letter-spacing: -8px;
     letter-spacing: 2px;
+}
+
+.subTitle{
+    display: block;
+    text-align: center;
+    padding-top: 10px;
 }
 
 
